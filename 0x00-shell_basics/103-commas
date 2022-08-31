@@ -1,2 +1,2 @@
 #!/bin/bashh
-ls map | sort -d
+ls m
